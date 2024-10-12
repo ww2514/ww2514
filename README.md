@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ww2514
-- 👀 I’m interested in machine learning application in the power grid system
+- 👋 Hi, I’m Andie Wenzheng Wang
+- 👀 I’m interested in interdisciplinary research
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on geographical and clinical-related research projects leveraging quantitative tools
+
 
 <!---
 ww2514/ww2514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
